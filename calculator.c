@@ -1,3 +1,8 @@
+/* 
+ *  Copyright 2012 joeaintexas All Rights Rescinded.
+ *  This software is hereby released to the public domain.
+ */
+
 #include "mathlib.h"
 #include <stdio.h>
 
