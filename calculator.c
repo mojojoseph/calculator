@@ -1,3 +1,7 @@
+/*
+ *  Copyright 2012 mojojoseph All Rights Reserved. 
+ *  This software may be used for any purpose at any time.
+ */
 #include "mathlib.h"
 #include <stdio.h>
 
