@@ -1,4 +1,4 @@
-/*
+/* 
  *  Copyright 2012 mojojoseph All Rights Reserved. 
  *  This software may be used for any purpose at any time.
  */
@@ -6,8 +6,8 @@
 #include <stdio.h>
 
 void func_x(void);
-void func_y(void); // added by flashy
-void func_z(void); // added by flashy
+void func_y(void); // added by flashy master
+void func_z(void); // added by flashy master
 
 int main(void) {
   int x = 2;
@@ -24,9 +24,9 @@ void func_x(void) {
 }
 
 void func_y(void) {
-  printf("Brought to you by Master Flashy\n");
+  printf("Brought to you by Master Flashy,\n");
 }
 
 void func_z(void) {
-  printf("... and by, the letter 'F'.\n");
+  printf("and no one else!\n");
 }
